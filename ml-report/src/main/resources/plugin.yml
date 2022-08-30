@@ -1,0 +1,5 @@
+name: Ml Report
+version: '${project.version}'
+main: za.co.codonorix.mlreport.MlReport
+api-version: 1.19
+authors: [ logan2971, freddyCod ]
